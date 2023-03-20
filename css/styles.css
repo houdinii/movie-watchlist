@@ -1,0 +1,37 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+* {
+  --lc1: #111827;
+  --lc2: #FFFFFF;
+  --lc3: #000000;
+  --lc4: #6B7280;
+  --lc5: #FEC654;
+  --lc6: #0E0E0E;
+  --lc7: #DFDDDD;
+  --lc8: #E5E7EB;
+  --lc9: #272727;
+  --lc10: #363636;
+  --lc11: #1C1C1C;
+  --dc1: #FFFFFF;
+  --dc2: #A5A5A5;
+  --dc3: #121212;
+  --dc4: #FEC654;
+  --dc5: #0E0E0E;
+  --dc6: #2E2E2F;
+  --dc7: #E5E7EB;
+  --dc8: #4B4B4B;
+  --dc9: #2C2C2C;
+  --dc10: #787878;
+  --dc11: #9CA3AF;
+  --dc12: #1C1C1C;
+}
+/*# sourceMappingURL=styles.css.map */
