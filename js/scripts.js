@@ -131,7 +131,7 @@ searchBtn.addEventListener("click", (e) => {
   e.preventDefault()
   const searchTerm = encodeURI(searchBox.value);
   // noinspection HttpUrlsUsage
-  const baseUrl = `http://www.omdbapi.com/?apikey=e584017&t=${searchTerm}&r="json"&plot="full"`
+  const baseUrl = `https://www.omdbapi.com/?apikey=e584017&t=${searchTerm}&r="json"&plot="full"`
   const options = {
     method: "GET",
     headers: {
